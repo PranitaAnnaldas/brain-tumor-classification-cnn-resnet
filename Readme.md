@@ -6,7 +6,7 @@ This repository documents the end-to-end process, from establishing a baseline C
 
 ## **Table of Contents**
 
-* [Project Overview](https://www.google.com/search?q=%23project-overview)  
+* [Project Overview](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#project-overview))  
 * [Repository Structure](https://www.google.com/search?q=%23repository-structure)  
 * [Dataset](https://www.google.com/search?q=%23dataset)  
 * [Methodology](https://www.google.com/search?q=%23methodology)  
