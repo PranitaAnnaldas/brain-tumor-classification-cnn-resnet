@@ -95,7 +95,7 @@ The confusion matrix provides a detailed breakdown of the model's predictions, s
 ## **Usage**
 
 1. Clone this repository:  
-   git clone \(https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet)
+   git clone \https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet
 
 2. To train the models, run the notebooks in the notebooks/ directory in sequential order.  
 3. To make a prediction, use the 3\_prediction\_with\_resnet50.ipynb notebook. Make sure the resnet50\_tumor\_classifier.h5 file is in the saved\_model/ directory.
