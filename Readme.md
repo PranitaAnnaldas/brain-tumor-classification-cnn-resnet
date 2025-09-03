@@ -7,12 +7,12 @@ This repository documents the end-to-end process, from establishing a baseline C
 ## **Table of Contents**
 
 * [Project Overview](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#project-overview))  
-* [Repository Structure](https://www.google.com/search?q=%23repository-structure)  
-* [Dataset](https://www.google.com/search?q=%23dataset)  
-* [Methodology](https://www.google.com/search?q=%23methodology)  
-* [Results](https://www.google.com/search?q=%23results)  
-* [Usage](https://www.google.com/search?q=%23usage)  
-* [Known Issues & Future Work](https://www.google.com/search?q=%23known-issues--future-work)
+* [Repository Structure](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#repository-structure)  
+* [Dataset](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#dataset)  
+* [Methodology](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#methodology)  
+* [Results](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#results)  
+* [Usage](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#usage)  
+* [Known Issues & Future Work](https://github.com/PranitaAnnaldas/brain-tumor-classification-cnn-resnet/blob/main/Readme.md#known-issues--future-work)
 
 ## **Project Overview**
 
@@ -81,10 +81,14 @@ The ResNet50 model shows much more balanced performance, especially improving th
 
 #### **Training History (ResNet50)**
 
+<img width="1388" height="490" alt="history_plots" src="https://github.com/user-attachments/assets/910f4cf1-af51-449d-85af-ad01c93bd283" />
+
 These plots show the model's accuracy and loss on the training and validation sets over each epoch. The charts indicate a good fit, with the model learning effectively without significant overfitting.
 
 
 #### **Confusion Matrix (ResNet50)**
+
+<img width="788" height="701" alt="resnet_confusion_matrix" src="https://github.com/user-attachments/assets/30d137a8-447f-408a-b0f8-d257a853a937" />
 
 The confusion matrix provides a detailed breakdown of the model's predictions, showing that it performs well across all four classes.
 
